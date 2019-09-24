@@ -1,6 +1,6 @@
 # Spring Cloud可视化配置中心前端项目
 
-> Spring CLoud可视化配置中心分为前端和后端两个项目，前端提供可视化页面，后端提供功能接口。后端项目地址为[spring-cloud-config-admin-api](https://github.com/liceyo/spring-cloud-config-admin-api)
+> Spring CLoud可视化配置中心分为前端和后端两个项目，前端提供可视化页面，后端提供功能接口。后端项目地址为[liceyo-spring-cloud-config-admin-api](https://github.com/liceyo/liceyo-spring-cloud-config-admin-api)
 
 ## 使用docker镜像
 
