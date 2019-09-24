@@ -15,6 +15,8 @@ docker run -e "CONFIG_ADMIN_API=[后端IP]:[后端Port]"  --name spring-cloud-co
 docker build -t [自定义镜像名]:[tag] .
 ```
 
+配置好后访问`http://localhost:9010/index.html`即可访问
+
 ## 编译和构建项目
 
 ```shell script
