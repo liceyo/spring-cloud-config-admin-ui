@@ -39,7 +39,7 @@ npm run dev
 
 ## 感谢
 
-> 本项目基于[vue-admin-template](http://panjiachen.github.io/vue-admin-template)项目开发，感谢PanJiaChen提供优质的前端模板！
+> 本项目基于[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)项目开发，感谢PanJiaChen提供优质的前端模板！
 
 
 ## License
