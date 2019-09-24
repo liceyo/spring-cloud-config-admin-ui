@@ -1,8 +1,8 @@
 {
-  "name": "vue-admin-template",
+  "name": "spring-cloud-config-admin-ui",
   "version": "4.2.1",
-  "description": "A vue admin template with Element UI & axios & iconfont & permission control & lint",
-  "author": "Pan <panfree23@gmail.com>",
+  "description": "Spring Cloud可视化配置中心",
+  "author": "lichengyong <liceyo@163.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -15,7 +15,7 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "element-ui": "2.7.2",
     "js-cookie": "2.2.0",
     "normalize.css": "7.0.0",
